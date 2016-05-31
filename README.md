@@ -1,2 +1,7 @@
-# fireball-lightning-grid
-Post-processing tool for Fireball electronic density (Grid version)
+Fireball-Lightning-Grid
+=======================
+
+This repository contains the sources to create two
+drivers:
+
+lightning-grid.x
