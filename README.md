@@ -1,7 +1,8 @@
 Fireball-Lightning-Grid
 =======================
 
-This repository contains the sources to create two
-drivers:
+This repository contains the sources to create the
+driver lightning-grid.x
 
-lightning-grid.x
+This driver is a fast KS calculator with the wavefunctions
+on a grid.
