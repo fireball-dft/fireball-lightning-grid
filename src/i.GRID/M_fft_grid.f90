@@ -142,7 +142,7 @@
 !        integer iatom
 
         character (len=25) xsfname
-        character (len=25) message
+        character (len=30) message
 
         real, dimension (:), pointer   :: pmat
         interface
