@@ -14,7 +14,7 @@ install:
     - sudo apt-get install gcc-4.8 gfortran-4.8 liblapack-dev libblas-dev libfftw3-dev
     - cd ..
     - git clone https://github.com/fireball-dft/fireball-master.git
-    - cd fireball-lightning-grid/src
+    - cd fireball-lightning-grid
     - ./configure
     - make distcheck
 
