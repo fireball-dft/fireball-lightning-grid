@@ -15,10 +15,8 @@ install:
     - cd ..
     - git clone https://github.com/fireball-dft/fireball-master.git
     - cd fireball-lightning-grid/src
-    - make lightning-grid.x
-    - make cleanall
-    - make llightning-grid.x
-
+    - ./configure
+    - make distcheck
 
 script: true
     # make check PFUNIT=pfunit
